@@ -1,6 +1,8 @@
-## 0.3.3
+## 0.4.0
 
-- Fixed pub dev score.
+- Bump `dart_style` to `^3.0.0`
+- Update to use 3.17 spec
+- Fixed pub dev score
 
 ## 0.3.2
 

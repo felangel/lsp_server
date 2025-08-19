@@ -1,4 +1,4 @@
-import 'package:lsp_server/lsp_server.dart';
+import 'package:lsp_server_ce/lsp_server_ce.dart';
 
 // See https://microsoft.github.io/language-server-protocol/specifications/lsp/3.18/specification/#messageType for levels and values
 const _error = 1;

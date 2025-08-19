@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:collection/collection.dart';
-import 'package:lsp_server/lsp_server.dart';
+import 'package:lsp_server_ce/lsp_server_ce.dart';
 
 void main() async {
   // Create a connection that can read and write data to the LSP client.

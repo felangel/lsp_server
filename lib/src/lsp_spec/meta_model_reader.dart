@@ -6,7 +6,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:collection/collection.dart';
-import 'package:lsp_server/src/lsp_spec/strings.dart';
+import 'package:lsp_server_ce/src/lsp_spec/strings.dart';
 
 import 'meta_model.dart';
 
