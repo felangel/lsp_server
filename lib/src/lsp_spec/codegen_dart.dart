@@ -14,7 +14,9 @@ String capitalize(String string) {
   return string[0].toUpperCase() + string.substring(1);
 }
 
-final formatter = DartFormatter();
+final formatter = DartFormatter(
+  languageVersion: DartFormatter.latestLanguageVersion,
+);
 
 final _canParseFunctions = SplayTreeMap<String, String>();
 Map<String, Interface> _interfaces = {};
